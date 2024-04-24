@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* @import "~swiper/swiper.scss"; */
+/* @import 'node_modules/swiper/swiper.scss'; */
+/* netflix-clone\node_modules\swiper\swiper.scs */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
