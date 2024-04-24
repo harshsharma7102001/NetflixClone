@@ -1,5 +1,5 @@
 # NetflixClone
-
+![Video Preview](https://github.com/harshsharma7102001/NetflixClone/blob/master/netflix-clone-video.mp4)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
 ## Development server
